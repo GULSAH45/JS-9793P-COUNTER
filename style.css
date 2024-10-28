@@ -1,0 +1,51 @@
+body {
+    background-color: #eda468b1;
+}
+.container-counter{
+border: 3px solid rgb(0, 0, 0);
+border-radius: 10px;
+width: 95%;
+height: 100vh;
+
+background-color: #8cb865ab;
+display: flex;
+justify-content: center;
+}
+
+.counter{
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    background: rgb(154,180,58);
+    background: linear-gradient(90deg, rgba(154,180,58,1) 0%,
+     rgba(253,29,29,1) 50%, rgba(252,176,69,1) 90%);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+}
+
+.btn-1{
+    border: 3px solid rgb(0, 0, 0);
+    border-color: bisque;
+    border-radius: 10px;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background: rgb(130,251,63);
+background: radial-gradient(circle, rgba(130,251,63,1) 0%,
+ rgba(252,70,107,1) 100%);
+
+}
+
+.ipod{
+    font-size: 100px;
+   margin: 10px;
+   padding: 10px;
+   justify-content: center;
+   align-items: center;
+}
